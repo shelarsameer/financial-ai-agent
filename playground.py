@@ -16,7 +16,7 @@ load_dotenv()
 phi.api=os.getenv("PHI_API_KEY")
 
 # Hard-code your Groq API key directly for testing purposes
-api_key = "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"
+api_key = ""
 
 # Web Search Agent
 web_search_agent = Agent(
