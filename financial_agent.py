@@ -10,7 +10,7 @@ import groq
 
 load_dotenv()
 # Hard-code your Groq API key directly for testing purposes
-api_key = "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"
+api_key = ""
 groq.api_key = api_key
 
 # Web Search Agent
